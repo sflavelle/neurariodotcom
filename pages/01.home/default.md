@@ -16,8 +16,8 @@ metadata:
     'twitter:title': 'Home | Neurario Dot Com'
     'twitter:site': '@splatsune'
     'twitter:creator': '@splatsune'
-    'article:published_time': '2020-11-17T07:59:43+00:00'
-    'article:modified_time': '2020-11-17T07:59:43+00:00'
+    'article:published_time': '2020-11-17T08:01:07+00:00'
+    'article:modified_time': '2020-11-17T08:01:07+00:00'
     'article:author': 'Neurario Dot Com'
 ---
 
@@ -39,7 +39,7 @@ In the meantime, here is all of my things:
 ### Recent Writing
 
 <ul>
-{% for post in pages.filter(p => {{ '/writing' in p.url|e}}).order('date', 'desc').slice(0, 5) %}
+{% for post in pages.order('date', 'desc').slice(0, 5) %}
     <li class="recent-posts">
         <strong><a href="{{ post.url }}">{{ post.title }}</a></strong> (<em>{{ post.date|date("d/m/Y") }}</em>)
     </li>
