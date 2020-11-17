@@ -16,8 +16,8 @@ metadata:
     'twitter:title': 'Home | Neurario Dot Com'
     'twitter:site': '@splatsune'
     'twitter:creator': '@splatsune'
-    'article:published_time': '2020-11-17T08:10:27+00:00'
-    'article:modified_time': '2020-11-17T08:10:27+00:00'
+    'article:published_time': '2020-11-17T08:10:53+00:00'
+    'article:modified_time': '2020-11-17T08:10:53+00:00'
     'article:author': 'Neurario Dot Com'
 ---
 
@@ -43,6 +43,8 @@ In the meantime, here is all of my things:
 * [YouTube Channel for misc stuff](https://www.youtube.com/channel/UC0sfamZ9PWIHv76RF9B2l_g)
 
 ### Recent Writing
+
+!! This will look like something eventually!
 
 <ul>
 {% for post in pages.order('date', 'desc').slice(0, 5) %}
