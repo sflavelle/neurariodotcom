@@ -4,7 +4,7 @@ date: '05-09-2020 00:00'
 aura:
     pagetype: website
 metadata:
-    'og:url': 'http://site.neurario.com/begin-again/part/1-the-final-fest'
+    'og:url': 'http://site.neurario.com/writing/begin-again/part-3/1-the-final-fest'
     'og:type': website
     'og:title': 'The Final Fest | Neurario Dot Com'
     'og:author': 'Neurario Dot Com'
