@@ -4,7 +4,7 @@ date: '09-11-2020 00:00'
 aura:
     pagetype: website
 metadata:
-    'og:url': 'http://site.neurario.com/begin-again/part/3-last-night-a-dj'
+    'og:url': 'http://site.neurario.com/writing/begin-again/part-3/3-last-night-a-dj'
     'og:type': website
     'og:title': 'Last Night A DJ... | Neurario Dot Com'
     'og:author': 'Neurario Dot Com'
@@ -13,7 +13,7 @@ metadata:
     'twitter:site': '@splatsune'
     'twitter:creator': '@splatsune'
     'article:published_time': '2020-11-09T00:00:00+00:00'
-    'article:modified_time': '2020-11-17T01:25:39+00:00'
+    'article:modified_time': '2020-11-17T01:28:31+00:00'
     'article:author': 'Neurario Dot Com'
 ---
 
