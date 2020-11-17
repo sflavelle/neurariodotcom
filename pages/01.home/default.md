@@ -16,8 +16,8 @@ metadata:
     'twitter:title': 'Home | Neurario Dot Com'
     'twitter:site': '@splatsune'
     'twitter:creator': '@splatsune'
-    'article:published_time': '2020-11-17T07:11:56+00:00'
-    'article:modified_time': '2020-11-17T07:11:56+00:00'
+    'article:published_time': '2020-11-17T07:12:17+00:00'
+    'article:modified_time': '2020-11-17T07:12:17+00:00'
     'article:author': 'Neurario Dot Com'
 ---
 
@@ -35,6 +35,16 @@ In the meantime, here is all of my things:
 * **And yes, I'm working on a way to get all my mashups up and downloadable**
 * [Begin Again (Splatoon Fanfic Because Why Not)](/writing/begin-again)
 * [YouTube Channel for misc stuff](https://www.youtube.com/channel/UC0sfamZ9PWIHv76RF9B2l_g)
+
+### Recent Writing
+### Recent Blog Posts
+<ul>
+{% for post in page.find('/writing').descendants.order('date', 'desc').slice(0, 5) %}
+    <li class="recent-posts">
+        <strong><a href="{{ post.url }}">{{ post.title }}</a></strong> (<em>{{ post.date|date("d/m/Y") }}</em>)
+    </li>
+{% endfor %}
+</ul>
 
 ### Recent Blog Posts
 <ul>
