@@ -16,8 +16,8 @@ metadata:
     'twitter:title': 'Home | Neurario Dot Com'
     'twitter:site': '@splatsune'
     'twitter:creator': '@splatsune'
-    'article:published_time': '2020-11-17T08:02:18+00:00'
-    'article:modified_time': '2020-11-17T08:02:18+00:00'
+    'article:published_time': '2020-11-17T08:10:27+00:00'
+    'article:modified_time': '2020-11-17T08:10:27+00:00'
     'article:author': 'Neurario Dot Com'
 ---
 
@@ -25,6 +25,9 @@ metadata:
 ## Or Splatsune
 ### Simon Says
 #### Whatever
+
+
+
 
 I'm slowly working out how I want to display anything here.
 
