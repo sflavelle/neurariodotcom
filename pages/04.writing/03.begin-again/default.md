@@ -28,8 +28,8 @@ metadata:
     'twitter:title': 'Begin Again: Chronicles of an Ex-Human in Inkopolis | Neurario Dot Com'
     'twitter:site': '@splatsune'
     'twitter:creator': '@splatsune'
-    'article:published_time': '2020-11-17T06:11:50+00:00'
-    'article:modified_time': '2020-11-17T06:11:50+00:00'
+    'article:published_time': '2020-11-17T06:12:43+00:00'
+    'article:modified_time': '2020-11-17T06:12:43+00:00'
     'article:author': 'Neurario Dot Com'
 ---
 
@@ -47,7 +47,8 @@ The story as published can be read here, or on [FanFiction.net](https://www.fanf
 {% for p in page.collection %}
     {% set children = p.children %}
 {% if p.header.metadata.current is defined and p.header.metadata.current == 'true' %}
-    <li><strong><a href="{{ p.url|e }}">{{ p.title|e }}</a></strong> ({{ p.children.count() }} chapters, <strong><span style="color:green;">in progress</span></strong>)<br />
+    <li><strong><a href="{{ p.url|e }}">{{ p.title|e }}</a></strong> ({{ p.children.count() }} chapters)<br />
+        <strong><span style="color:green;">in progress</span></strong>, last update: {{ p.children.nth(p.children.count()-1).date|date("d/m/Y") }})<br />
 {% else %}
     <li><strong><a href="{{ p.url|e }}">{{ p.title|e }}</a></strong> ({{ p.children.count() }} chapters)<br />
 {% endif %}
