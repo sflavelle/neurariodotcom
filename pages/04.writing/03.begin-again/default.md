@@ -28,8 +28,8 @@ metadata:
     'twitter:title': 'Begin Again: Chronicles of an Ex-Human in Inkopolis | Neurario Dot Com'
     'twitter:site': '@splatsune'
     'twitter:creator': '@splatsune'
-    'article:published_time': '2020-11-17T06:12:43+00:00'
-    'article:modified_time': '2020-11-17T06:12:43+00:00'
+    'article:published_time': '2020-11-17T23:33:32+00:00'
+    'article:modified_time': '2020-11-17T23:33:32+00:00'
     'article:author': 'Neurario Dot Com'
 ---
 
