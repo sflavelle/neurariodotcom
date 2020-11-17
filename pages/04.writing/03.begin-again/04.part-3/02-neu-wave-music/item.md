@@ -4,7 +4,7 @@ date: '31-10-2020 00:00'
 aura:
     pagetype: website
 metadata:
-    'og:url': 'http://site.neurario.com/begin-again/part/2-neu-wave-music'
+    'og:url': 'http://site.neurario.com/writing/begin-again/part-3/2-neu-wave-music'
     'og:type': website
     'og:title': 'Neu Wave Music | Neurario Dot Com'
     'og:author': 'Neurario Dot Com'
@@ -13,7 +13,7 @@ metadata:
     'twitter:site': '@splatsune'
     'twitter:creator': '@splatsune'
     'article:published_time': '2020-10-31T00:00:00+00:00'
-    'article:modified_time': '2020-11-17T01:23:14+00:00'
+    'article:modified_time': '2020-11-17T01:28:42+00:00'
     'article:author': 'Neurario Dot Com'
 ---
 
