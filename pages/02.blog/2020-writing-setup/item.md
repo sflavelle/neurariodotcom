@@ -1,5 +1,6 @@
 ---
 title: 'Making my writing setup my own'
+media_order: 'image.png,image-2.png,image-3.png,image-4.png,image-6.png'
 date: '01-11-2020 18:28'
 aura:
     pagetype: website
@@ -7,13 +8,18 @@ metadata:
     'og:url': 'http://site.neurario.com/blog/2020-writing-setup'
     'og:type': website
     'og:title': 'Making my writing setup my own | Neurario Dot Com'
+    'og:image': 'http://site.neurario.com/blog/2020-writing-setup/image.png'
+    'og:image:type': image/png
+    'og:image:width': '1921'
+    'og:image:height': '1042'
     'og:author': 'Neurario Dot Com'
     'twitter:card': summary_large_image
     'twitter:title': 'Making my writing setup my own | Neurario Dot Com'
     'twitter:site': '@splatsune'
     'twitter:creator': '@splatsune'
+    'twitter:image': 'http://site.neurario.com/blog/2020-writing-setup/image.png'
     'article:published_time': '2020-11-01T18:28:00+00:00'
-    'article:modified_time': '2020-11-17T07:28:17+00:00'
+    'article:modified_time': '2020-11-17T07:34:50+00:00'
     'article:author': 'Neurario Dot Com'
 ---
 
@@ -23,7 +29,7 @@ In the process of making [the latest chapter of Begin Again](/writing/begin-agai
 
 You can see a bit of that in this screenshot:
 
-![image|690x374, 100%](upload://c3NwOOuUcO2gTghpy75WVaD4RXa.png) 
+![](image.png)
 
 What I have at the moment is a means to split my writing in a way that lets me split my chapters into scene-by-scene files that are based on the Markdown formatting language - essentially, text files. This structure also allows me to write a scene that comes to mind, no matter how far ahead in the story it might be.
 
@@ -41,17 +47,17 @@ The answer for me, right now, is: "Whatever text editor I feel like."
 
 When I first began writing Begin Again, I was basically trying to write down a thread of daydreams I was having so that I wouldn't forget them, and so I just used Google Docs to write everything. Google Docs because it has an interface both on computers /and/ on mobile, because I was doing a lot of writing through my phone while on breaks at work.
 
-![image|690x381, 75%](upload://abrf2cAUfTyhVriMzJcGNqHmo59.png) 
+![](image-2.png)
 
 In fact once I started writing it as an actual story I used one document for everything - all of Part 1 and the first third of Part 2 (in its initial form) was written in the same document. Unfortunately, once it had gotten to this point it was approximately 100 pages and the document was slow to load for editing, or for sharing with other people.
 
 I began looking for an alternative, and was pointed toward a program called Scrivener - a tool made specifically for writers, with an organisation system I still love and wanted to emulate in my own system. Unfortunately a few things made this too annoying to use regularly, especially on a mobile OS (where it is only available on iOS, and I flip-flopped a lot). Otherwise a very good tool and I would still recommend it if you're serious.
 
-![image|690x414, 75%](upload://2AzPFahlFsYHUdv0AGyW18rvTCT.png) 
+![](image-3.png)
 
 I actually settled on a site/webapp called Notion for quite a while, and used it to write the rest of Part 2 and 2.5 due to its easy access to desktop *and* mobile apps - while I'm not sure straight writing was part of its use cases, the ability to nest pages in pages and format the pages in different ways made it handy as a dashboard too, and I ended up using this as my home for my series' world building, character pages, etc.
 
-![image|634x500, 75%](upload://dbfTAMMRW1EgsWJef9kYYHF1f2.png) 
+![](image-4.png)
 
 But the system I had in place for my chapters and WIPs made it difficult to just write a scene ahead of where I was even in the same chapter - ideally in Notion you would create a new page and write your scene in there, and then I guess copy it back to the main file.
 
@@ -118,7 +124,7 @@ I tried a lot of different things with `find` to get it to do what I want on Win
 
 But in the end, I ended up dusting off Microsoft Powershell and beginning to learn that, to see if I could do what I wanted.
 
-![image|689x274](upload://yBhLteptUWRSj0KypGwwLRNuiYl.png)
+![](image-6.png)
 I got it pretty much perfect.
 Left: macOS compile. Right: Windows 10 compile.
 
