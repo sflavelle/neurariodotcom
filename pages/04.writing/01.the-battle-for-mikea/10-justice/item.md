@@ -4,7 +4,7 @@ date: '15-05-2011 00:00'
 aura:
     pagetype: website
 metadata:
-    'og:url': 'http://site.neurario.com/writing/the-battle-for-mikea/09-scribbalons-lament-2'
+    'og:url': 'http://site.neurario.com/writing/the-battle-for-mikea/10-justice'
     'og:type': website
     'og:title': 'Justice | Neurario Dot Com'
     'og:author': 'Neurario Dot Com'
@@ -13,11 +13,11 @@ metadata:
     'twitter:site': '@splatsune'
     'twitter:creator': '@splatsune'
     'article:published_time': '2011-05-15T00:00:00+00:00'
-    'article:modified_time': '2020-11-18T07:16:43+00:00'
+    'article:modified_time': '2020-11-18T07:22:20+00:00'
     'article:author': 'Neurario Dot Com'
 ---
 
->The camp is taken to temporary safety, and Ruby questions the prisoner.
+>A plan is formed for a journey through the mountains.
 
 ===
 
