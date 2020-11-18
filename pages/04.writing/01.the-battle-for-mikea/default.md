@@ -19,8 +19,8 @@ metadata:
     'twitter:title': 'The Battle for Mikea | Neurario Dot Com'
     'twitter:site': '@splatsune'
     'twitter:creator': '@splatsune'
-    'article:published_time': '2020-11-18T06:49:30+00:00'
-    'article:modified_time': '2020-11-18T06:49:30+00:00'
+    'article:published_time': '2020-11-18T07:34:11+00:00'
+    'article:modified_time': '2020-11-18T07:34:11+00:00'
     'article:author': 'Neurario Dot Com'
 ---
 
