@@ -1,10 +1,10 @@
 ---
 title: Escape
-date: '11-11-2010 00:00'
+date: '07-05-2011 00:00'
 aura:
     pagetype: website
 metadata:
-    'og:url': 'http://site.neurario.com/writing/the-battle-for-mikea/06-back-to-the-drawing-board-2'
+    'og:url': 'http://site.neurario.com/writing/the-battle-for-mikea/07-escape'
     'og:type': website
     'og:title': 'Escape | Neurario Dot Com'
     'og:author': 'Neurario Dot Com'
@@ -12,8 +12,8 @@ metadata:
     'twitter:title': 'Escape | Neurario Dot Com'
     'twitter:site': '@splatsune'
     'twitter:creator': '@splatsune'
-    'article:published_time': '2010-11-11T00:00:00+00:00'
-    'article:modified_time': '2020-11-18T07:03:03+00:00'
+    'article:published_time': '2011-05-07T00:00:00+00:00'
+    'article:modified_time': '2020-11-18T07:05:12+00:00'
     'article:author': 'Neurario Dot Com'
 ---
 
