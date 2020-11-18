@@ -3,6 +3,8 @@ title: 'The Battle for Mikea'
 process:
     markdown: true
     twig: true
+content:
+    items: '@self.children'
 aura:
     pagetype: website
 metadata:
@@ -14,8 +16,8 @@ metadata:
     'twitter:title': 'The Battle for Mikea | Neurario Dot Com'
     'twitter:site': '@splatsune'
     'twitter:creator': '@splatsune'
-    'article:published_time': '2020-11-18T06:35:45+00:00'
-    'article:modified_time': '2020-11-18T06:35:45+00:00'
+    'article:published_time': '2020-11-18T06:48:59+00:00'
+    'article:modified_time': '2020-11-18T06:49:30+00:00'
     'article:author': 'Neurario Dot Com'
 ---
 
