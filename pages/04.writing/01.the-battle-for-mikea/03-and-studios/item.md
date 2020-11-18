@@ -4,7 +4,7 @@ date: '30-08-2010 00:00'
 aura:
     pagetype: website
 metadata:
-    'og:url': 'http://site.neurario.com/writing/the-battle-for-mikea/02-hope-2'
+    'og:url': 'http://site.neurario.com/writing/the-battle-for-mikea/03-and-studios'
     'og:type': website
     'og:title': 'And Studios | Neurario Dot Com'
     'og:author': 'Neurario Dot Com'
@@ -13,11 +13,11 @@ metadata:
     'twitter:site': '@splatsune'
     'twitter:creator': '@splatsune'
     'article:published_time': '2010-08-30T00:00:00+00:00'
-    'article:modified_time': '2020-11-18T06:45:35+00:00'
+    'article:modified_time': '2020-11-18T06:50:22+00:00'
     'article:author': 'Neurario Dot Com'
 ---
 
->Two days later...
+>An esteemed friend returns.
 
 ===
 
