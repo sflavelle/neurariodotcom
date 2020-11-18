@@ -3,6 +3,7 @@ title: Blog
 body_classes: title-h1h2
 aura:
     pagetype: website
+show_sidebar: false
 content:
     items:
         - '@self.children'
@@ -21,8 +22,8 @@ metadata:
     'twitter:title': 'Blog | Neurario Dot Com'
     'twitter:site': '@splatsune'
     'twitter:creator': '@splatsune'
-    'article:published_time': '2020-11-17T06:00:33+00:00'
-    'article:modified_time': '2020-11-17T06:00:33+00:00'
+    'article:published_time': '2020-11-17T06:01:14+00:00'
+    'article:modified_time': '2020-11-17T06:01:14+00:00'
     'article:author': 'Neurario Dot Com'
 ---
 
