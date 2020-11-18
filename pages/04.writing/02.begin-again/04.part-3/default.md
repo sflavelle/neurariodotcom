@@ -3,7 +3,6 @@ title: 'Part 3: Down Under'
 process:
     markdown: true
     twig: true
-never_cache_twig: true
 aura:
     pagetype: website
     metadata:
@@ -19,7 +18,7 @@ metadata:
     'twitter:title': 'Part 3: Down Under | Neurario Dot Com'
     'twitter:site': '@splatsune'
     'twitter:creator': '@splatsune'
-    'article:published_time': '2020-11-17T04:39:05+00:00'
+    'article:published_time': '2020-11-17T04:48:19+00:00'
     'article:modified_time': '2020-11-17T04:48:19+00:00'
     'article:author': 'Neurario Dot Com'
     current: 'true'
