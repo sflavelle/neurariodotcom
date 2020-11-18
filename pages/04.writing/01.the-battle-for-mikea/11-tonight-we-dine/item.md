@@ -4,7 +4,7 @@ date: '21-05-2011 00:00'
 aura:
     pagetype: website
 metadata:
-    'og:url': 'http://site.neurario.com/writing/the-battle-for-mikea/10-justice-2'
+    'og:url': 'http://site.neurario.com/writing/the-battle-for-mikea/11-tonight-we-dine'
     'og:type': website
     'og:title': 'Tonight We Dine... | Neurario Dot Com'
     'og:author': 'Neurario Dot Com'
@@ -13,11 +13,11 @@ metadata:
     'twitter:site': '@splatsune'
     'twitter:creator': '@splatsune'
     'article:published_time': '2011-05-21T00:00:00+00:00'
-    'article:modified_time': '2020-11-18T07:22:32+00:00'
+    'article:modified_time': '2020-11-18T07:25:36+00:00'
     'article:author': 'Neurario Dot Com'
 ---
 
->The camp is taken to temporary safety, and Ruby questions the prisoner.
+>The Userpedians prepare to leave.
 
 ===
 
