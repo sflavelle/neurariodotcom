@@ -1,15 +1,15 @@
 ---
-title: 2020-ao3
+title: 'Regarding Archive of Our Own'
 date: '13-11-2020 18:42'
 aura:
     pagetype: website
 metadata:
     'og:url': 'http://site.neurario.com/blog/2020-ao3'
     'og:type': website
-    'og:title': '2020-ao3 | Neurario Dot Com'
+    'og:title': 'Regarding Archive of Our Own | Neurario Dot Com'
     'og:author': 'Neurario Dot Com'
     'twitter:card': summary_large_image
-    'twitter:title': '2020-ao3 | Neurario Dot Com'
+    'twitter:title': 'Regarding Archive of Our Own | Neurario Dot Com'
     'twitter:site': '@splatsune'
     'twitter:creator': '@splatsune'
     'article:published_time': '2020-11-13T18:42:00+00:00'
