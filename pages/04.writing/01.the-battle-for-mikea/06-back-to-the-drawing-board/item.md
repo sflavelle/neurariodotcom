@@ -4,7 +4,7 @@ date: '11-11-2010 00:00'
 aura:
     pagetype: website
 metadata:
-    'og:url': 'http://site.neurario.com/writing/the-battle-for-mikea/07-escape'
+    'og:url': 'http://site.neurario.com/writing/the-battle-for-mikea/06-back-to-the-drawing-board'
     'og:type': website
     'og:title': 'Back to the Drawing Board | Neurario Dot Com'
     'og:author': 'Neurario Dot Com'
@@ -13,11 +13,11 @@ metadata:
     'twitter:site': '@splatsune'
     'twitter:creator': '@splatsune'
     'article:published_time': '2010-11-11T00:00:00+00:00'
-    'article:modified_time': '2020-11-18T07:01:33+00:00'
+    'article:modified_time': '2020-11-18T07:02:51+00:00'
     'article:author': 'Neurario Dot Com'
 ---
 
->The Userpedians confront an intruder in the burning Library.
+>The camp packs up.
 
 ===
 
