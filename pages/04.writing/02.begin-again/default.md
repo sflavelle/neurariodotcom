@@ -9,7 +9,6 @@ menu: 'Begin Again'
 process:
     markdown: true
     twig: true
-never_cache_twig: true
 visible: true
 aura:
     pagetype: website
@@ -28,8 +27,8 @@ metadata:
     'twitter:title': 'Begin Again: Chronicles of an Ex-Human in Inkopolis | Neurario Dot Com'
     'twitter:site': '@splatsune'
     'twitter:creator': '@splatsune'
-    'article:published_time': '2020-11-17T23:35:17+00:00'
-    'article:modified_time': '2020-11-17T23:35:17+00:00'
+    'article:published_time': '2020-11-18T06:10:59+00:00'
+    'article:modified_time': '2020-11-18T06:10:59+00:00'
     'article:author': 'Neurario Dot Com'
 ---
 
