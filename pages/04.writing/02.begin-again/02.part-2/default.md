@@ -3,7 +3,8 @@ title: 'Part 2: Legacy'
 process:
     markdown: true
     twig: true
-never_cache_twig: true
+aura:
+    pagetype: website
 content:
     items: '@self.children'
 metadata:
@@ -15,7 +16,7 @@ metadata:
     'twitter:title': 'Part 2: Legacy | Neurario Dot Com'
     'twitter:site': '@splatsune'
     'twitter:creator': '@splatsune'
-    'article:published_time': '2020-11-17T04:39:05+00:00'
+    'article:published_time': '2020-11-17T04:47:35+00:00'
     'article:modified_time': '2020-11-17T04:47:35+00:00'
     'article:author': 'Neurario Dot Com'
 ---
