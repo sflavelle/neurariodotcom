@@ -1,19 +1,19 @@
 ---
-title: 'Escape 2'
+title: 'Cold Hearts'
 date: '08-05-2011 00:00'
 aura:
     pagetype: website
 metadata:
-    'og:url': 'http://site.neurario.com/writing/the-battle-for-mikea/07-escape-2'
+    'og:url': 'http://site.neurario.com/writing/the-battle-for-mikea/08-cold-hearts'
     'og:type': website
-    'og:title': 'Escape 2 | Neurario Dot Com'
+    'og:title': 'Cold Hearts | Neurario Dot Com'
     'og:author': 'Neurario Dot Com'
     'twitter:card': summary_large_image
-    'twitter:title': 'Escape 2 | Neurario Dot Com'
+    'twitter:title': 'Cold Hearts | Neurario Dot Com'
     'twitter:site': '@splatsune'
     'twitter:creator': '@splatsune'
     'article:published_time': '2011-05-08T00:00:00+00:00'
-    'article:modified_time': '2020-11-18T07:06:41+00:00'
+    'article:modified_time': '2020-11-18T07:10:53+00:00'
     'article:author': 'Neurario Dot Com'
 ---
 
