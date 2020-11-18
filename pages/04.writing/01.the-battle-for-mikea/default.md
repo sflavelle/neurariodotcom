@@ -11,8 +11,8 @@ metadata:
     'twitter:title': 'The Battle for Mikea | Neurario Dot Com'
     'twitter:site': '@splatsune'
     'twitter:creator': '@splatsune'
-    'article:published_time': '2020-11-18T06:10:45+00:00'
-    'article:modified_time': '2020-11-18T06:10:45+00:00'
+    'article:published_time': '2020-11-18T06:10:59+00:00'
+    'article:modified_time': '2020-11-18T06:10:59+00:00'
     'article:author': 'Neurario Dot Com'
 ---
 
@@ -28,16 +28,13 @@ I had just gotten deep into Guild Wars with friends outside of the site and my i
 
 The story as published can be read in its entirety here. It was previously hosted on Userpedia, unfortunately the site has been shut down as of 2019.
 
-## Parts
+### Chapters
+
 <ul>
 {% for p in page.collection %}
-    {% set children = p.children %}
-{% if p.header.metadata.current is defined and p.header.metadata.current == 'true' %}
-    <li><strong><a href="{{ p.url|e }}">{{ p.title|e }}</a></strong> ({{ p.children.count() }} chapters)<br />
-        <em><strong><span style="color:green;">In progress</span></strong>, last update: {{ p.children.nth(p.children.count()-1).date|date("d/m/Y") }}</em><br />
-{% else %}
-    <li><strong><a href="{{ p.url|e }}">{{ p.title|e }}</a></strong> ({{ p.children.count() }} chapters)<br />
-{% endif %}
-    <em>{{ p.summary|raw|striptags('<br><p>') }}</em></li>
+    <li><strong><a href="{{ p.url|e }}">#{{ p.currentPosition+1 }} - {{ p.title|e }}</a></strong>
+        ({{ p.content|readingtime({'format': '{minutes_short_count} {minutes_text}'}) }} to read)<br />
+        <em>{{ p.summary|raw|striptags }}</em>
+    </li>
 {% endfor %}
 </ul>
