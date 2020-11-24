@@ -4,7 +4,6 @@ body_classes: 'title-center title-h1h2'
 process:
     markdown: true
     twig: true
-never_cache_twig: true
 aura:
     pagetype: website
 metadata:
@@ -16,8 +15,8 @@ metadata:
     'twitter:title': 'Home | Neurario Dot Com'
     'twitter:site': '@splatsune'
     'twitter:creator': '@splatsune'
-    'article:published_time': '2020-11-24T10:44:41+00:00'
-    'article:modified_time': '2020-11-24T10:44:41+00:00'
+    'article:published_time': '2020-11-24T10:52:18+00:00'
+    'article:modified_time': '2020-11-24T10:52:18+00:00'
     'article:author': 'Neurario Dot Com'
 ---
 
@@ -38,7 +37,7 @@ You can find me in various places on the internet!
 ### Projects
 
 * [Squidbeat Splatitudes (Splatoon Mashup Album)](/mashups/squidbeat-splatitudes)
-* **And yes, I'm working on a way to get all my mashups up and downloadable**
+	* **And yes, I'm working on a way to get all my mashups up and downloadable**
 * [Begin Again (Splatoon Fanfic Because Why Not)](/writing/begin-again)
 * [Neubott](https://github.com/sflavelle/neubott)
 
