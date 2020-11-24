@@ -16,8 +16,8 @@ metadata:
     'twitter:title': 'Part 1 - Fish Out of Water | Neurario Dot Com'
     'twitter:site': '@splatsune'
     'twitter:creator': '@splatsune'
-    'article:published_time': '2020-11-17T04:47:05+00:00'
-    'article:modified_time': '2020-11-17T04:47:05+00:00'
+    'article:published_time': '2020-11-24T10:02:46+00:00'
+    'article:modified_time': '2020-11-24T10:02:46+00:00'
     'article:author': 'Neurario Dot Com'
 ---
 
