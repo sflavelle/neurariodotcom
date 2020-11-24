@@ -16,8 +16,8 @@ metadata:
     'twitter:title': 'Home | Neurario Dot Com'
     'twitter:site': '@splatsune'
     'twitter:creator': '@splatsune'
-    'article:published_time': '2020-11-24T10:37:07+00:00'
-    'article:modified_time': '2020-11-24T10:37:07+00:00'
+    'article:published_time': '2020-11-24T10:44:41+00:00'
+    'article:modified_time': '2020-11-24T10:44:41+00:00'
     'article:author': 'Neurario Dot Com'
 ---
 
@@ -33,13 +33,14 @@ _autistic ~ full-time factory worker ~ techy ~ trying to do too much_
 
 You can find me in various places on the internet!
 
-[[icon=twitter /] @Splatsune](https://twitter.com/Splatsune) &bull; [[icon=youtube /] Neurario](https://www.youtube.com/channel/UC0sfamZ9PWIHv76RF9B2l_g) (music/misc) &bull: [[icon=youtube /] Splatsune](https://www.youtube.com/user/SimonSaysLPs) (gaming) &bull; 
+[[fa=twitter /] @Splatsune](https://twitter.com/Splatsune) &bull; [[fa=youtube /] Neurario](https://www.youtube.com/channel/UC0sfamZ9PWIHv76RF9B2l_g) (music/misc) &bull; [[fa=youtube /] Splatsune](https://www.youtube.com/user/SimonSaysLPs) (gaming) &bull; [[fa=github /] sflavelle](https://github.com/sflavelle)
+
+### Projects
 
 * [Squidbeat Splatitudes (Splatoon Mashup Album)](/mashups/squidbeat-splatitudes)
 * **And yes, I'm working on a way to get all my mashups up and downloadable**
 * [Begin Again (Splatoon Fanfic Because Why Not)](/writing/begin-again)
 * [Neubott](https://github.com/sflavelle/neubott)
-* [YouTube Channel for misc stuff](https://www.youtube.com/channel/UC0sfamZ9PWIHv76RF9B2l_g)
 
 ### Recent Writing
 
