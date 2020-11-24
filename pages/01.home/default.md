@@ -16,25 +16,18 @@ metadata:
     'twitter:title': 'Home | Neurario Dot Com'
     'twitter:site': '@splatsune'
     'twitter:creator': '@splatsune'
-    'article:published_time': '2020-11-17T08:10:53+00:00'
-    'article:modified_time': '2020-11-17T08:10:53+00:00'
+    'article:published_time': '2020-11-17T08:32:01+00:00'
+    'article:modified_time': '2020-11-17T08:32:01+00:00'
     'article:author': 'Neurario Dot Com'
 ---
 
 # Hi, I'm Neurario
 ## Or Splatsune
-### Simon Says
-#### Whatever
+## ...Simon Says
+## Whatever
 
-
-
-
-I'm slowly working out how I want to display anything here.
-
-In the meantime, here is all of my things:
-
-* Twitter: [@Splatsune](https://twitter.com/Splatsune)
-* Twitch: [Splatsune](https://www.twitch.tv/splatsune)
+{# Just going to calculate my own age because fuck it #}
+**I'm a {{ 'December 13, 1991' | time_diff }} year old Australian mashup DJ, programmer, and casual fanfic author**, often dabbling in other things on the site
 
 * [Squidbeat Splatitudes (Splatoon Mashup Album)](/mashups/squidbeat-splatitudes)
 * **And yes, I'm working on a way to get all my mashups up and downloadable**
