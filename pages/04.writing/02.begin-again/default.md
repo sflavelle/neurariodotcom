@@ -27,8 +27,8 @@ metadata:
     'twitter:title': 'Begin Again: Chronicles of an Ex-Human in Inkopolis | Neurario Dot Com'
     'twitter:site': '@splatsune'
     'twitter:creator': '@splatsune'
-    'article:published_time': '2020-11-25T08:37:01+00:00'
-    'article:modified_time': '2020-11-25T08:55:46+00:00'
+    'article:published_time': '2020-11-25T08:55:46+00:00'
+    'article:modified_time': '2020-11-25T08:57:22+00:00'
     'article:author': 'Neurario Dot Com'
 ---
 
@@ -54,10 +54,10 @@ The story as published can be read here, or on [FanFiction.net](https://www.fanf
     {% set chapter_content = p.children | map(p => (p.content|slice(p.summary|length))) | join(' ') %}
     {% set chapter_wordcount = chapter_content | split(' ') | length | number_format(0, '.', ',')  %}
 {% if p.header.metadata.current is defined and p.header.metadata.current == 'true' %}
-    <li><strong><a href="{{ p.url|e }}">{{ p.title|e }}</a></strong> ({{ p.children.count() }} chapters, {{ chapter_wordcount }} words, {{ chapter_content | readingtime }} to read)<br />
+    <li><strong><a href="{{ p.url|e }}">{{ p.title|e }}</a></strong> ({{ p.children.count() }} chapters, {{ chapter_wordcount }} words)<br />
         <em><strong><span style="color:green;">In progress</span></strong>, last update: {{ p.children.nth(p.children.count()-1).date|date("d/m/Y") }}</em><br />
 {% else %}
-    <li><strong><a href="{{ p.url|e }}">{{ p.title|e }}</a></strong> ({{ p.children.count() }} chapters,  {{ chapter_wordcount }} words, {{ chapter_content | readingtime }} to read)<br />
+    <li><strong><a href="{{ p.url|e }}">{{ p.title|e }}</a></strong> ({{ p.children.count() }} chapters,  {{ chapter_wordcount }} words)<br />
 {% endif %}
     <em>{{ p.summary|raw|striptags('<br><p>') }}</em></li>
 {% endfor %}
