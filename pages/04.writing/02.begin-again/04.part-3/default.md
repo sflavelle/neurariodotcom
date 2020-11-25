@@ -18,8 +18,8 @@ metadata:
     'twitter:title': 'Part 3: Down Under | Neurario Dot Com'
     'twitter:site': '@splatsune'
     'twitter:creator': '@splatsune'
-    'article:published_time': '2020-11-25T08:29:06+00:00'
-    'article:modified_time': '2020-11-25T08:30:34+00:00'
+    'article:published_time': '2020-11-25T08:30:34+00:00'
+    'article:modified_time': '2020-11-25T08:38:20+00:00'
     'article:author': 'Neurario Dot Com'
     current: 'true'
 ---
@@ -40,7 +40,7 @@ metadata:
 
 <ul>
 {% for p in page.collection %}
-    {% set wordcount = p.content | join(' ') | split(' ') | length | number_format(0, '.', ',') %}
+    {% set wordcount = (p.content|slice(p.summary|length)) | join(' ') | split(' ') | length | number_format(0, '.', ',') %}
     <li><strong><a href="{{ p.url|e }}">#{{ p.currentPosition+1 }} - {{ p.title|e }}</a></strong>
         ({{ wordcount }} words, {{ p.content|readingtime({'format': '{minutes_short_count} {minutes_text}'}) }} to read)<br />
         <em>{{ p.summary|raw|striptags }}</em>
