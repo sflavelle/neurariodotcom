@@ -16,8 +16,8 @@ metadata:
     'twitter:title': 'Part 2.5: Stories of an Ex-Human in Inkopolis | Neurario Dot Com'
     'twitter:site': '@splatsune'
     'twitter:creator': '@splatsune'
-    'article:published_time': '2020-11-18T06:37:06+00:00'
-    'article:modified_time': '2020-11-18T06:37:06+00:00'
+    'article:published_time': '2020-11-24T10:02:08+00:00'
+    'article:modified_time': '2020-11-25T08:29:23+00:00'
     'article:author': 'Neurario Dot Com'
 ---
 
@@ -29,8 +29,9 @@ metadata:
 
 <ul>
 {% for p in page.collection %}
+    {% set wordcount = p.children | map(p => p.content) | join(' ') | split(' ') | length | number_format(0, '.', ',') %}
     <li><strong><a href="{{ p.url|e }}">#{{ p.currentPosition+1 }} - {{ p.title|e }}</a></strong>
-        ({{ getWordCount(p.content) | number_format(0, '.', ',') }} words, {{ p.content|readingtime({'format': '{minutes_short_count} {minutes_text}'}) }} to read)<br />
+        ({{ wordcount }} words, {{ p.content|readingtime({'format': '{minutes_short_count} {minutes_text}'}) }} to read)<br />
         <em>{{ p.summary|raw|striptags }}</em>
     </li>
 {% endfor %}
