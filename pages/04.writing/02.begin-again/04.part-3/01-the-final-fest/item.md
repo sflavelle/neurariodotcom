@@ -4,7 +4,7 @@ date: '05-09-2020 00:00'
 aura:
     pagetype: website
 metadata:
-    'og:url': 'http://site.neurario.com/writing/begin-again/part-3/1-the-final-fest'
+    'og:url': 'http://site.neurario.com/writing/begin-again/part-3/01-the-final-fest'
     'og:type': website
     'og:title': 'The Final Fest | Neurario Dot Com'
     'og:author': 'Neurario Dot Com'
@@ -13,7 +13,7 @@ metadata:
     'twitter:site': '@splatsune'
     'twitter:creator': '@splatsune'
     'article:published_time': '2020-09-05T00:00:00+00:00'
-    'article:modified_time': '2020-11-17T01:07:52+00:00'
+    'article:modified_time': '2020-11-17T07:29:05+00:00'
     'article:author': 'Neurario Dot Com'
 ---
 
@@ -377,8 +377,7 @@ rug.
 Cap'n Craig Cuttlefish, the Splatoon's leader, smiled warmly up at the
 girls, next to a portable stereo and a few bags and boxes.
 
-Callie and Marie Calamari - Agents 1 and 2, as well as the Squid Sisters
-- waved up at them, having been in the middle of talking with...
+Callie and Marie Calamari - Agents 1 and 2, as well as the Squid Sisters - waved up at them, having been in the middle of talking with...
 
 ...Remo Redd - Agent 3 - who stood and nodded at them with a smile...
 
@@ -504,7 +503,7 @@ case for a few short months.
 
 And that in itself was cause for celebration.
 
-"Heyoooo\~!"
+"Heyoooo~!"
 
 A few heads turned as two more girls approached the group from the gate
 - Pearl and Marina, as it turned out. Both of them were still in their
