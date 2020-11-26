@@ -13,7 +13,7 @@ metadata:
     'twitter:site': '@splatsune'
     'twitter:creator': '@splatsune'
     'article:published_time': '2020-09-05T00:00:00+00:00'
-    'article:modified_time': '2020-11-17T07:29:05+00:00'
+    'article:modified_time': '2020-11-26T06:05:12+00:00'
     'article:author': 'Neurario Dot Com'
 ---
 
@@ -505,8 +505,7 @@ And that in itself was cause for celebration.
 
 "Heyoooo~!"
 
-A few heads turned as two more girls approached the group from the gate
-- Pearl and Marina, as it turned out. Both of them were still in their
+A few heads turned as two more girls approached the group from the gate - Pearl and Marina, as it turned out. Both of them were still in their
 iconic clothing from doing the news.
 
 "Hi, everyone!" Marina gave a little wave as they both sat down with the
