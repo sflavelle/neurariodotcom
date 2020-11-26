@@ -4,7 +4,7 @@ date: '31-10-2020 00:00'
 aura:
     pagetype: website
 metadata:
-    'og:url': 'http://site.neurario.com/writing/begin-again/part-3/2-neu-wave-music'
+    'og:url': 'http://site.neurario.com/writing/begin-again/part-3/02-neu-wave-music'
     'og:type': website
     'og:title': 'Neu Wave Music | Neurario Dot Com'
     'og:author': 'Neurario Dot Com'
@@ -13,7 +13,7 @@ metadata:
     'twitter:site': '@splatsune'
     'twitter:creator': '@splatsune'
     'article:published_time': '2020-10-31T00:00:00+00:00'
-    'article:modified_time': '2020-11-17T01:28:42+00:00'
+    'article:modified_time': '2020-11-17T07:29:25+00:00'
     'article:author': 'Neurario Dot Com'
 ---
 
@@ -25,7 +25,7 @@ metadata:
 
 <audio controls>
     <source src="http://files.neurario.com/Mixes/DJ%20Neu%20Wave%20-%20Starfish%20Bar%20Set%20for%20Begin%20Again%203-2.mp3" type="audio/mpeg">
-    !! This chapter is paired with a mix you can listen to, but your browser can't support loading it here. You can download it here: ["DJ Neu Wave - Starfish Bar Set for Begin Again 3-2.mp3"](http://files.neurario.com/Mixes/DJ%20Neu%20Wave%20-%20Starfish%20Bar%20Set%20for%20Begin%20Again%203-2.mp3)
+    {{ '!! This chapter is paired with a mix you can listen to, but your browser can't support loading it here. You can download it here: ["DJ Neu Wave - Starfish Bar Set for Begin Again 3-2.mp3"](http://files.neurario.com/Mixes/DJ%20Neu%20Wave%20-%20Starfish%20Bar%20Set%20for%20Begin%20Again%203-2.mp3)' | markdown }}
 </audio>
 
 >*"It's amazing."*<br />
