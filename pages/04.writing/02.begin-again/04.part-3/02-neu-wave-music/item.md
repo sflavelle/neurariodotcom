@@ -13,7 +13,7 @@ metadata:
     'twitter:site': '@splatsune'
     'twitter:creator': '@splatsune'
     'article:published_time': '2020-10-31T00:00:00+00:00'
-    'article:modified_time': '2020-11-17T07:29:25+00:00'
+    'article:modified_time': '2020-11-26T07:39:31+00:00'
     'article:author': 'Neurario Dot Com'
 ---
 
@@ -198,7 +198,7 @@ later, carrying a cup of hot chocolate in her hand. As soon as the door
 shut behind her and the light from inside disappeared, she allowed the
 persona of 'DJ Neu Wave' to slip away from her, and her bright eyes and
 smile slipped away. She slumped down rather roughly on a milk crate next
-to the entrance, leaning her back into the wall
+to the entrance, leaning her back into the wall.
 
 In an instant, she looked as if she was totally exhausted.
 
