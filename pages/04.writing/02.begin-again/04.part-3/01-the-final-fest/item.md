@@ -13,7 +13,7 @@ metadata:
     'twitter:site': '@splatsune'
     'twitter:creator': '@splatsune'
     'article:published_time': '2020-09-05T00:00:00+00:00'
-    'article:modified_time': '2020-11-26T06:05:12+00:00'
+    'article:modified_time': '2020-11-26T06:06:28+00:00'
     'article:author': 'Neurario Dot Com'
 ---
 
@@ -592,7 +592,7 @@ guys!"
 the feathers hanging off of Lily's hip. "Whose idea was that?"
 
 "It's a *cultural* gift, relax!" Eight chuckled. "I promise I'm not into
-her, Four. Although...\~"
+her, Four. Although...~"
 
 Lily's face went red, which was immediately followed by hearty laughter
 from Eight as she handed the lure to Lily. "I'm kidding, I'm kidding!
