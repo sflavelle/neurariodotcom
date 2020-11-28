@@ -15,12 +15,12 @@ metadata:
     'twitter:description': 'Listing of stories that I''ve written.'
     'twitter:site': '@splatsune'
     'twitter:creator': '@splatsune'
-    'article:published_time': '2020-11-28T22:12:14+00:00'
-    'article:modified_time': '2020-11-28T22:12:14+00:00'
+    'article:published_time': '2020-11-28T22:28:05+00:00'
+    'article:modified_time': '2020-11-28T22:28:05+00:00'
     'article:author': 'Neurario Dot Com'
 ---
 
-Every now and then I write things. Some of these are based on established universes by others, some are just things I did for/including/with other people.
+Every now and then I write things. Some of these are based on established universes by others, some are just <a style='text-decoration: none;color:inherit;' href="/writing/nsfw">things I did</a> for/including/with other people.
 
 I'll try to include links to other places you can read them, if you prefer other sites.
 
