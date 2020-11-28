@@ -27,7 +27,7 @@ metadata:
     'twitter:title': 'Begin Again: Chronicles of an Ex-Human in Inkopolis | Neurario Dot Com'
     'twitter:site': '@splatsune'
     'twitter:creator': '@splatsune'
-    'article:published_time': '2020-11-25T08:55:46+00:00'
+    'article:published_time': '2020-11-25T08:57:22+00:00'
     'article:modified_time': '2020-11-25T08:57:22+00:00'
     'article:author': 'Neurario Dot Com'
 ---
@@ -45,7 +45,7 @@ After that, writing led to daydreaming more led to writing more and suddenly I h
 
 This has been written with the assumption that the reader may already know the Splatoon series - I don't know if it's readable to those who don't know the games.
 
-The story as published can be read here, or on [FanFiction.net](https://www.fanfiction.net/s/13397436/1/Begin-Again-Chronicles-of-an-Ex-Human-In-Inkopolis) as one entry.
+The story as published can be read here, at [Fanfiction Online](https://fanfiction.online/story/430427), or on [FanFiction.net](https://www.fanfiction.net/s/13397436/1/Begin-Again-Chronicles-of-an-Ex-Human-In-Inkopolis).
 
 ## Parts
 <ul>
