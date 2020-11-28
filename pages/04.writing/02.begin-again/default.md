@@ -27,15 +27,15 @@ metadata:
     'twitter:title': 'Begin Again: Chronicles of an Ex-Human in Inkopolis | Neurario Dot Com'
     'twitter:site': '@splatsune'
     'twitter:creator': '@splatsune'
-    'article:published_time': '2020-11-25T08:57:22+00:00'
-    'article:modified_time': '2020-11-25T08:57:22+00:00'
+    'article:published_time': '2020-11-28T22:00:16+00:00'
+    'article:modified_time': '2020-11-28T22:00:16+00:00'
     'article:author': 'Neurario Dot Com'
 ---
 
 # Begin Again
 ## Chronicles of an Ex-Human in Inkopolis
 
->_A human finds themselves transformed and left twelve thousand years in the future, when humans are extinct and marine life has taken their place._
+>_Lily is an odd Inkling who's learning to live in the big city of Inkopolis among other marine life. She's also ex-human, after being flung far into the future from her own time. But it's hard to keep a secret like that from the New Squidbeak Splatoon, who found her, Off the Hook, who think she's connected to the NILS facility, and DJ Octavio, who wants her and her history for himself._
 
 A *Splatoon* AU.
 
