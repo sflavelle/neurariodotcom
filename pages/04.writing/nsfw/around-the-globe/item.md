@@ -12,8 +12,8 @@ metadata:
     'twitter:title': 'Around The Globe | Neurario Dot Com'
     'twitter:site': '@splatsune'
     'twitter:creator': '@splatsune'
-    'article:published_time': '2020-11-29T00:45:22+00:00'
-    'article:modified_time': '2020-11-29T00:45:22+00:00'
+    'article:published_time': '2020-11-29T00:47:56+00:00'
+    'article:modified_time': '2020-11-29T00:47:56+00:00'
     'article:author': 'Neurario Dot Com'
 ---
 
@@ -71,7 +71,7 @@ Lily bit her lip, and looked down at her hoodie. Now that this was suddenly happ
 
 DJ Octavio seemed to grin. “Oh, my. Isn’t *that* interesting. So does that mean, then…” He leaned back in the snowglobe’s dome, relaxed. “...that I get to claim your inkling virginity, my dear~? Don’t worry… I’ll be gentle. At first~”
 
-“Uh…” With one last moment of hesitation, she began to remove her headset and hoodie. “Y-Yeah. Let’s go with that…” The hoodie unzipped easily, and she tossed it aside. She undid the latch on her boots and stepped out of them.
+“Uh…” With one last moment of hesitation, she began to remove her headset and hoodie. “Y-Yeah. Okay.” The hoodie unzipped easily, and she tossed it aside. She undid the latch on her boots and stepped out of them.
 
 Octavio watched intently, looking over her body with some interest. Sure, she *looked* like an inkling, but he was always fascinated with the bodies of octolings, of either gender - their muscles, the structure of their forms, their limbs, their genitalia even - and while Lily wasn’t all that muscular, and even was slightly pudgy, she reminded him of them - and of how he *loved* getting his tentacles on them, how they loved submitting to him, giving their body to him.
 
