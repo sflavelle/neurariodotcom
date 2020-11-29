@@ -17,7 +17,7 @@ metadata:
     'twitter:site': '@splatsune'
     'twitter:creator': '@splatsune'
     'article:published_time': '2020-11-29T00:00:00+00:00'
-    'article:modified_time': '2020-11-29T00:19:16+00:00'
+    'article:modified_time': '2020-11-29T00:40:04+00:00'
     'article:author': 'Neurario Dot Com'
 content:
     items: '@self.children'
@@ -31,7 +31,7 @@ You know what you want.
 ### Stories
 
 <ul>
-{% for p in page.collection.visible() %}
+{% for p in page.collection.published() %}
     <li><strong><a href="{{ p.url|e }}">#{{ p.date|date("d/m/Y") }} - {{ p.title|e }}</a></strong>
         ({{ p.content|readingtime({'format': '{minutes_short_count} {minutes_text}'}) }} to read)<br />
         <em>{{ p.summary|raw|striptags }}</em>
