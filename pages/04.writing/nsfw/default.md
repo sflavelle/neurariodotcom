@@ -14,8 +14,13 @@ metadata:
     'twitter:site': '@splatsune'
     'twitter:creator': '@splatsune'
     'article:published_time': '2020-11-29T00:00:00+00:00'
-    'article:modified_time': '2020-11-29T00:02:16+00:00'
+    'article:modified_time': '2020-11-29T00:02:56+00:00'
     'article:author': 'Neurario Dot Com'
+content:
+    items: '@self.children'
+    order:
+        by: date
+        dir: desc
 ---
 
 You know what you want.
