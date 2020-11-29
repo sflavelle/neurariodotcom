@@ -1,6 +1,9 @@
 ---
 title: 'Not Safe For Work Writing'
 date: '00:00 29-11-2020'
+process:
+    markdown: true
+    twig: true
 aura:
     pagetype: website
 author: Splatsune
