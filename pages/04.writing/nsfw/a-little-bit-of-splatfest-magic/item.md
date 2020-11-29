@@ -1,6 +1,6 @@
 ---
 title: 'A Little Bit of Splatfest Magic'
-date: '00:04 13-06-2020'
+date: '00:04 13-06-2019'
 aura:
     pagetype: website
 author: Splatsune
@@ -13,7 +13,7 @@ metadata:
     'twitter:title': 'A Little Bit of Splatfest Magic | Neurario Dot Com'
     'twitter:site': '@splatsune'
     'twitter:creator': '@splatsune'
-    'article:published_time': '2020-06-13T00:04:00+00:00'
+    'article:published_time': '2019-06-13T00:04:00+00:00'
     'article:modified_time': '2020-11-29T00:07:18+00:00'
     'article:author': 'Neurario Dot Com'
 ---
