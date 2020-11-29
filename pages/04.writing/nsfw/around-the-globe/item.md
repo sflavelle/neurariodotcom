@@ -1,6 +1,5 @@
 ---
 title: 'Around The Globe'
-published: false
 aura:
     pagetype: website
 author: Splatsune
@@ -13,7 +12,7 @@ metadata:
     'twitter:title': 'Around The Globe | Neurario Dot Com'
     'twitter:site': '@splatsune'
     'twitter:creator': '@splatsune'
-    'article:published_time': '2020-11-29T00:45:00+00:00'
+    'article:published_time': '2020-11-29T00:45:22+00:00'
     'article:modified_time': '2020-11-29T00:45:22+00:00'
     'article:author': 'Neurario Dot Com'
 ---
