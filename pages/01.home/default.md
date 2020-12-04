@@ -15,8 +15,8 @@ metadata:
     'twitter:title': 'Home | Neurario Dot Com'
     'twitter:site': '@splatsune'
     'twitter:creator': '@splatsune'
-    'article:published_time': '2020-11-25T08:41:03+00:00'
-    'article:modified_time': '2020-11-25T08:41:03+00:00'
+    'article:published_time': '2020-12-04T23:20:54+00:00'
+    'article:modified_time': '2020-12-04T23:26:18+00:00'
     'article:author': 'Neurario Dot Com'
 writing:
     items:
@@ -51,7 +51,7 @@ You can find me in various places on the internet!
 {% set writing_collection = page.collection('writing') %}
 
 <ul>
-{% for post in writing_collection.ofType('item').remove('/writing/nsfw').order('date', 'desc').slice(0, 5) %}
+{% for post in writing_collection.ofType('item').order('date', 'desc').slice(0, 5) %}
     {% if post.parent.title | split(' ')[0] == 'Part' %}
     <li class="recent-posts">
         <strong><a href="{{ post.url }}">{{ post.parent.parent.title | split(':')[0] }}: {{ post.parent.title | split(':')[0] }} #{{ post.currentPosition+1 }}: {{ post.title }}</a></strong> (<em>{{ post.date|date("d/m/Y") }}</em>)
