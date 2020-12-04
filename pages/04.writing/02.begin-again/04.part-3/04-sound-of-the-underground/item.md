@@ -424,8 +424,7 @@ and its entertainment.
 Though the area around the three entities was walled off - save for a
 gate leading into Cephalon City which was overseen by two Octotroopers -
 the area between them was often used as a social space between members
-of one establishment or another. It seemed the only lit area in the city
-- bathed in the glow of the palace. Often one walking through would see
+of one establishment or another. It seemed the only lit area in the city - bathed in the glow of the palace. Often one walking through would see
 many different Octarians walking about, talking, or engaging in training
 exercises.
 
